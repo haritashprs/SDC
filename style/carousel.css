@@ -1,0 +1,23 @@
+
+.grey{
+	filter: grayscale(100%);
+}
+.white{
+	color: black;
+	background-color:white;
+}
+
+figure {
+    display: inline-block;
+    margin: 20px; /* adjust as needed */
+	padding-left: 20px;
+}
+figure img {
+	align-self: center;
+	padding-left: 30px;
+	height: 350px;
+	
+}
+figure figcaption {
+    text-align: center;
+}
